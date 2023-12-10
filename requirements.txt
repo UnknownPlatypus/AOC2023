@@ -1,3 +1,4 @@
 -e support
 numpy
 pytest
+black
